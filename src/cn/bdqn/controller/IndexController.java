@@ -21,7 +21,7 @@ public class IndexController{
         logger.info("hello,SpringMVC!");
         return "index";
     }
-    /*
+    /*test
      * 参数传递：view to controller
      */
 
